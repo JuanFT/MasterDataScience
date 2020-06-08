@@ -1,0 +1,445 @@
+whoami
+echo $HOST
+echo uno dos
+cd Repos
+cd csvkit
+cd 
+cd ..
+cd
+pwd
+cd Repos
+cd csvkit
+cd ..
+git clone https://github.com/IgorAramb/master_data_science.git 
+git clone https://github.com/IgorAramb/master_data_science.git  dos
+ls
+cd 
+cd ./Repos/csvkit
+pwd
+cat requirements-py2.txt
+cat /etc/os-release
+cat ./AUTHORS.rst
+cat ../master_data_science/README.md
+cat ~/Repos/master_data_science/README.md
+cat /home/Repos/master_data_science/README.md
+cat   /home/dsc/Repos/master_data_science/README.md
+cat 
+cd 
+cd RE
+cd Repos
+ls
+cd master_data_science
+git status
+git config --global user.name "Igor Arambasic"
+git config --global user.email igor.arambasic@gmail.com
+cd
+cat .gitconfig
+cd -
+gedit README.md
+cat ./README.md
+gedit README.md
+git status
+cat ./README.md
+git status
+git add README.md
+git status
+git commit -m "first commit"
+git log
+cd
+cat .gitconfig
+cd -
+git log
+gedit
+gedit README.md
+git add README.md
+git commit 
+git push
+ls
+ls -a 
+cd ..
+git init master2
+cd master2
+git clone https://github.com/IgorAramb/master_data_science.git  tres
+cd tres
+git log
+rm -rf .git
+ls -a
+cd ..
+cd
+cd -
+cd ..
+git init master3
+ls
+cd master3
+rm -rf .git
+cd master2
+cd ..
+cd master2
+touch file
+git add file
+git commit -m "initial"
+git push
+cd ..
+cd master_data_science
+git pull
+echo una echo dos
+echo una; echo dos
+echo una \; echo dos
+echo una \n echo dos
+echo "una \n echo dos"
+echo "una \\n echo dos"
+echo una \\n echo dos
+echo "$HOST"
+echo '$HOST'
+echo 'una \\n echo dos'
+echo `date`
+date
+echo date
+echo "date"
+echo 'date'
+echo "$(date)"
+echo '$(date)'
+echo `date`
+echo `Today is date`
+echo "Today is $(date)"
+echo "World \
+is ok"
+echo "World \\
+\
+ia ok"
+echo "World \\
+is ok"
+echo \\
+"world"
+echo "\
+\
+\
+\
+\
+fgdfgdsf\
+\
+\
+\
+
+cd Data/shell
+cat Text_example.txt
+cd /
+ls
+cd home
+ls
+cd dsc
+cd Data/shell
+pwd
+cat Text_example.txt
+cat -n Text_example.txt
+ls
+cd
+ls
+cd Repos
+cd csvkit
+ls
+ll
+cd ..
+cd -
+cd 
+cd -
+cd ../csvkit
+ls
+ls -1
+ls -s
+ls -s -1
+ls -1s
+ls -a
+ls -a1
+cat .gitignore
+ls -a1
+ls -a1 MANIFEST.in
+ls -l
+alias
+ls -s
+ll
+ls -ls
+ls -l
+git status
+alias gs='git status'
+alias
+gs
+type ls
+alias gc='git commit -m'
+gs
+gedit .zshrc
+gs
+cd Repos/csvkit
+gs
+cd
+bash
+cat .bash
+ls -a
+cd Repos/csvkit/
+ls -a
+exit
+ls -a
+cat .profile
+cat .zsh_history
+ls
+cd Repos/csvkit
+ls -l
+cd examples
+ls
+ls -ld
+ls -ld /
+ls 
+ls -l
+ll
+cd 
+mkdir un_dir
+cd un_dir
+cd ./
+cd ../
+cd .
+ll
+cd un_dir
+mkdir subdir1
+cd ..
+ll
+ll un_dir
+ls -S
+ls -lS
+ls -lSr
+ls -lt
+ls -ltr
+ls -s
+ls -sS
+ls -sSr
+alias ll
+ll
+cd Data/shell
+ll
+chmod u-w Text_example.txt
+ll
+chmod u-w Text_example.txt
+ll
+chmod u+w,g+w-x,o+r+w+x Text_example.txt
+ll
+chmod 277 Text_example.txt
+ll
+chmod 777 Text_example.txt
+ll
+touch my_file
+ll
+touch Text_example.txt
+ll
+cat Text_example.txt
+mkdir one two three
+ll
+mkdir -p one_new/two/three
+mkdir -p one/two/three
+ls one
+cp Text_example.txt Text_example.2
+ll
+cp -p Text_example.txt Text_example.3 
+ll
+cp Text_example.2 Text_example.3 Text_example.txt
+cp Text_example.2 Text_example.3 Text_example.txt two
+ls two
+cp Text_example.2 ./three/Text_example.3
+cp Text_example.2 ./three/
+echo $PATH
+cp ../opentraveldata/optd_airlines.csv ./
+ll
+cp ../opentraveldata/optd_airlines.csv 
+cp Text_example.2 Text_example.3 Text_example.txt two
+cd two
+ll
+cp - r three four
+cp - r ./three ./four
+cp -r three four
+ll
+cd ..
+ll
+cp -r three four
+ll
+cp -pr my_file my_file.backup
+ll
+mv my_file.backup my_file
+ll
+mv my_file my_new_file
+ll
+mv one old_one
+ll
+rm my_new_file
+rm -r old_one
+rm -rf two
+ll
+rm four
+ll
+cd
+mkdir first_dir
+touch first_dir/text_file.txt
+chmod g+x,o+w first_dir/text_file.txt
+cd first_dir
+mkdir sub1 sub2 text_file
+ll
+cp -p text_file.txt sub1
+mv text_file.txt sub2/text_file.txt.2
+cd ..
+cd -
+cp -r sub1 sub3
+mv ./sub2/text_file.txt.2 ./sub2/text_file.txt.backup
+mv sub2/text_file.txt.backup ./.text_file.txt.backup
+rm -rf sub2
+man bash
+man cat
+cat --help
+man cat
+cd
+cd Data/shell
+more Text_example.txt
+less Text_example.txt
+more Finn.txt
+cat Finn.txt
+less Finn.txt 
+man cat
+less Finn.txt 
+less -N Finn.txt 
+man cat
+sudo apt-get install tree
+tree
+which python
+sudo which python
+echo $PATH
+whereis python
+exit
+hgfjhgfhgfjhgf
+lkjljklkj
+fdgf
+this is text this is text this is text this is text t this is text this is text t this is text this is text 
+history
+history -5
+cat .history
+ls
+ls -a
+echo "\
+\
+\
+\
+\
+fgdfgdsf\
+\
+\
+\
+\
+
+git config --global user.email igor.arambasic@gmail.com
+cat .gitconfig
+cd Data/shell
+wc Text_example.txt
+wc -l Text_example.txt
+wc -c Text_example.txt
+wc -m Text_example.txt
+head Finn.txt
+head -3 Finn.txt
+head -n 3 Finn.txt
+head -n -3 Finn.txt
+head -3 Text_example.txt
+rm -f Text_example.2 Text_example.3
+cat Text_example.txt
+head -3 Text_example.txt
+head -n -3 Text_example.txt
+head 3 Text_example.txt
+head Text_example.txt Text_example.txt
+tail -3 Text_example.txt
+tail -n 3 Text_example.txt
+tail -n +3 Text_example.txt
+head -3 Finn.txt
+head -3 Finn.txt > file.txt
+head -3 Finn.txt >> file.txt
+cat file.txt
+head -3 Finn.txt >> file2.txt
+ll
+cat -n Finn.txt | head -5
+wc Finn.txt
+cat Finn.txt | wc
+cat -n Finn.txt 
+cat -n Finn.txt | head -5
+cat -n Finn.txt | head -5 >first_5_lines.txt
+ll
+cat fi
+cat first_5_lines.txt
+cat -n Finn.txt | head -5 >first_5_lines
+cat -n Text_example.txt
+cat -n Text_example.txt > Text_example_with_num.txt
+cat Text_example_with_num.txt
+date
+echo "$(date)"
+echo "#This file is created by KSCHOOL on: $(date)"
+echo "#This file is created by KSCHOOL on: $(date)"> text_with_timestamp.txt
+cat text_with_timestamp.txt
+echo "#This file is created by $USER on: $(date)"> text_with_timestamp.txt
+cat text_with_timestamp.txt
+cd ../us_dot/otp
+ls
+ls -l
+ls -lS
+ls -lS | head -4
+ls -lS | head -4 | tail -3
+ls -lS | head -4 | tail -3 > top3.txt
+cat top3.txt
+ls -lS | head -4 | tail -3 > top3.txt | cat
+ls -lS | head -4 | tail -3 > top3.txt | cat top3.txt
+ls -lS | head -4 | tail -3 > top3.txt | cat 
+ls -lS | head -4 
+ls -S | head -4 
+ls -S 
+cd ../../shell
+head -5 Finn.txt
+head -5 Finn.txt | wc -w
+head -5 Finn.txt | wc 
+cd Data
+find
+find . 
+find -name "Text*"
+find -name "Text"
+find -name "Text*"
+find . -name "Text*"
+find ../ -name "Text*"
+find ~/Data/ -name "Text*"
+find -name "Text*" ~/Data/
+find . -iname "text*"
+find . -iname "text*" -type d
+find . -iname "text*" -type f
+find ../ -iname "text*" -type f
+find ../ -maxdepth 5 -iname "text*" -type f 
+find ../ -mindepth 3 -iname "text*" -type f 
+find . -iname "text*" -type f 
+find . -iname "text*" -type f -perm 777 
+find . -iname "text*" -type f ! -perm 777 
+find . -iname "text*" -type f NOT -perm 777 
+find . -iname "text*" -type f -not -perm 777 
+find . -iname "text*" -type f -size +10k
+find . -iname "text*" -type f -size -10k
+find . -iname "text*" -type f -empty
+find . -iname "text*" -type f ! -empty
+find . -iname "text*" -type f -mmin -60
+find . -iname "text*" -type f -mtime -3
+find . -iname "text*" -type f -mtime -3 | ls
+ls
+find . -iname "text*" -type f -mtime -3 
+find . -iname "text*" -type f
+echo uno ; echo 2
+echo uno \; echo 2
+find . -iname "text*" -type f -exec echo "FOUND" \;
+find . -iname "text*" -type f -exec echo "FOUND" 
+find . -iname "text*" -type f -exec echo "FOUND" ;
+find . -iname "text*" -type f -exec echo "FOUND" \
+find . -iname "text*" -type f -exec echo "FOUND" \;
+find . -iname "text*" -type f
+find . -iname "text*" -type f -exec echo "FOUND" \;
+ls -l ./shell/three/Text_example.2
+find . -iname "text*" -type f -exec echo "FOUND \; -exec ls -l {} \;
+find . -iname "text*" -type f -exec echo "FOUND" \; -exec ls -l {} \;
+find . -iname "text*" -type f -exec ls -s {} \; -exec ls -l {} \;
+find . -iname "text*" -type f  -exec ls -l {} |wc  \;
+find . -iname "text*" -type f  -exec sh -c "ls -l {} |wc"  \;
+cd
+cat .history > 2018-12-01.cmdl
