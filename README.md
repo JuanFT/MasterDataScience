@@ -2,7 +2,8 @@
 -------
 ## Chapter
 01. Intro
-02. Command Lines/BDD SQL
+02. Command Lines
+03. SQL
 03. Intro to python
 04. Numpy pandas matplotlib
 05. DataScience Challenge
